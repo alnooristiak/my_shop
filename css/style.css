@@ -81,7 +81,7 @@ ul{
     font-weight: 600;
     text-transform: capitalize;
     color: #fff;
-    background-color: #e93700;
+    background-color: #6AB04C;
     transition: all 0.3s;
 }
 
@@ -117,7 +117,7 @@ ul{
 
 #admin-header .logout{
     color: #fff;
-    background-color: #e93700;
+    background-color: #6AB04C;
     font-size: 18px;
     font-weight: 600;
     text-transform: capitalize;
@@ -146,7 +146,7 @@ ul{
 /* ===================== */
 
 #admin-menu{
-    background-color: #e93700;
+    background-color: #6AB04C;
     padding: 20px 10px;
     min-height: 700px;
 }
@@ -187,7 +187,7 @@ ul{
 
 #admin-content .add-new{
     color: #fff;
-    background-color: #e93700;
+    background-color: #6AB04C;
     font-size: 16px;
     font-weight: 600;
     text-transform: uppercase;
@@ -203,14 +203,14 @@ ul{
 
 #admin-content .detail-box{
     color: #fff;
-    background-color: #E93700;
+    background-color: #6AB04C;
     width: 220px;
     padding: 40px 20px;
     border-radius: 5px;
     text-align: center;
     margin: 0 auto 50px;
     border: 5px solid #fff;
-    box-shadow: 5px 5px 0 rgba(0,0,0,0.1);
+    box-shadow: 5px 5px 0 rgba(42, 66, 44, 0.1);
 }
 #admin-content .detail-box .count{
     display: block;
@@ -262,7 +262,7 @@ ul{
     text-align: center;
     margin: 0 -20px;
     color: #fff;
-    background-color: #E93700;
+    background-color: #6AB04C;
 }
 
 .modal-body table{
@@ -453,7 +453,7 @@ ul{
     font-weight: 600;
     text-transform: capitalize;
     color: #fff;
-    background-color: #e93700;
+    background-color: #6AB04C;
     border-radius:20px;
     margin: 0 0 20px;
     transition:all 0.3s;
@@ -469,7 +469,7 @@ ul{
     color: #000;
 }
 .customer_login span a{
-    color: #e93700;
+    color: #6AB04C;
     transition: all 0.3s ease 0s;
 }
 .customer_login span a:hover{
@@ -528,7 +528,7 @@ ul{
     font-weight: 600;
     text-transform: capitalize;
     color: #fff;
-    background-color: #e93700;
+    background-color: #6AB04C;
     border-radius:20px;
     transition:all 0.3s;
 }
