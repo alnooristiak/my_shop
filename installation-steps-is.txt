@@ -44,4 +44,9 @@ InstaMojo Payment Gateway Settings
 4. Open "PROJECT-FOLDER/instamojo.php" and Set API Key , Auth Token on line number. 19 & 20 and set API URL on line number. 14 
 
 Note: Dont say Copy Copy,  i write this code, and help many resorce, and copy many code and plugine many sorce,
+===========
+Insta MOJO
+=> istiakmahmud3030@gmail.com
+=> password: 123!@#
+
  
